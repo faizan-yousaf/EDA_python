@@ -1,0 +1,31 @@
+Assignment (Day 2)
+There are mainly two types of main categorization which are based on capabilities and based on functionally of AI
+- Type 1:
+1. Narrow Artificial Intelligence
+2. General Artificial Intelligence
+3. Super Artificial Intelligence.
+
+Type 2:
+1. Reactive machines
+2. Limited Memory
+3. Theory of Mind
+4. Self-awareness 
+
+- Types of LLM's
+- LLM's are a type of AI which can generate text on various topics endlessly in a human way of speaking in any language.
+Some Large Language Models are:
+1. Claude - Anthropotic
+2. Bard - Google AI
+3. GPT 3, 3.5, 4 - OpenAI
+4. Lambda - Google AI
+5. Llama - Meta
+6. Orca - Microsoft
+7. DGX AI - NVIDIA
+8. Phi-1	Microsoft
+
+- Data Science VS Data Analytics
+Data Science is a broad field that encompasses data analytics, data engineering, machine learning, and other disciplines.
+It involves using scientific methods to extract knowledge and insights from data. 
+
+Data Analytics is a more focused subset of data science that focuses on collecting, cleaning, and analyzing data to answer specific
+business questions.
